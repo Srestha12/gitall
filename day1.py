@@ -1,2 +1,2 @@
-a="Day 1"
+a="Day 2"
 print(a)
